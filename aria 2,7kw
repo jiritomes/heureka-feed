@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SHOP>
+  <SHOPITEM>
+    <ITEM_ID>ARIA-AR5-2700</ITEM_ID>
+    <PRODUCT>BEIJER REF Invertor ARIA AR5 2,7 kW</PRODUCT>
+    <DESCRIPTION>Inventor ARIA AR5 2,7 kW je moderní invertorová klimatizace určená pro efektivní chlazení i vytápění prostor o velikosti cca 25–40 m². Nabízí vysokou energetickou účinnost (A++ při chlazení), tichý chod, vestavěné Wi-Fi ovládání a pokročilou filtraci vzduchu (HEPA filtr a ionizátor).</DESCRIPTION>
+    <URL>https://klimatizace-tomes.cz/produkty/aria-ar5</URL>
+    <IMGURL>https://klimatizace-tomes.cz/obrazky/aria-ar5.jpg</IMGURL>
+    <PRICE_VAT>15650</PRICE_VAT>
+    <DELIVERY_DATE>3</DELIVERY_DATE>
+    <MANUFACTURER>Inventor</MANUFACTURER>
+    <CATEGORYTEXT>Elektronika | Klimatizace | Nástěnné</CATEGORYTEXT>
+  </SHOPITEM>
+</SHOP>
